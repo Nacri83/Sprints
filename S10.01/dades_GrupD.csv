@@ -1,0 +1,56 @@
+Nom,Cognoms,País d'origen,Ciutat,Dia,Mes,Any,Gènere,Salari mensual,Fills,No Fills,Grup Professional,Nombre completo,Nacido en España,Fecha_nacimiento,Edad_actual,Increment
+Laia,Castells Ferrer,Espanya,Madrid,16,12,1953,Otros,2819.88,No,1.0,Grup D,Laia Castells Ferrer,True,1953-12-16,72,0.08
+Marta,Romero,Espanya,Madrid,10,5,2001,Mujer,3034.8,Sí,,Grup D,Marta Romero,True,2001-05-10,24,0.08
+Laia,Martínez Sánchez,Espanya,Madrid,14,6,1961,Mujer,2803.6800000000003,No,1.0,Grup D,Laia Martínez Sánchez,True,1961-06-14,64,0.08
+Clara,Ferrer,Espanya,Madrid,17,7,1990,Mujer,2893.32,No,1.0,Grup D,Clara Ferrer,True,1990-07-17,35,0.08
+Michel,Lefevre,França,París,21,8,1974,Hombre,2873.88,No,1.0,Grup D,Michel Lefevre,False,1974-08-21,51,0.08
+Marc,Martínez,Espanya,Sevilla,1,8,1977,Hombre,3283.2000000000003,No,1.0,Grup D,Marc Martínez,True,1977-08-01,48,0.08
+Lea,Schneider,Alemanya,Munic,22,9,1950,Mujer,2881.44,Sí,,Grup D,Lea Schneider,False,1950-09-22,75,0.08
+Laia,Castells,Espanya,Bilbao,19,4,1950,Mujer,2643.84,No,1.0,Grup D,Laia Castells,True,1950-04-19,75,0.08
+Eva,Sánchez,Espanya,Madrid,9,9,1992,Mujer,3115.8,Sí,,Grup D,Eva Sánchez,True,1992-09-09,33,0.08
+Carla,Martínez,Espanya,Madrid,21,3,1973,Mujer,3078.0,No,1.0,Grup D,Carla Martínez,True,1973-03-21,52,0.08
+Arnau,Sánchez García,Espanya,València,24,2,1978,Hombre,3545.6400000000003,No,1.0,Grup D,Arnau Sánchez García,True,1978-02-24,48,0.08
+Núria,Sánchez Castells,Espanya,Madrid,12,5,1981,,2961.36,No,1.0,Grup D,Núria Sánchez Castells,True,1981-05-12,44,0.08
+Carla,López Ferrer,Espanya,Sevilla,4,9,1962,Mujer,3089.88,No,1.0,Grup D,Carla López Ferrer,True,1962-09-04,63,0.08
+Amina,Bennani,Marroc,Casablanca,22,10,2004,Mujer,3183.84,Sí,,Grup D,Amina Bennani,False,2004-10-22,21,0.08
+Jordi,Sánchez,Espanya,Barcelona,6,6,1981,Hombre,2976.48,No,1.0,Grup D,Jordi Sánchez,True,1981-06-06,44,0.08
+Pau,Martínez López,Espanya,Madrid,3,11,2000,Hombre,3007.8,Sí,,Grup D,Pau Martínez López,True,2000-11-03,25,0.08
+Arnau,Castells Sánchez,Espanya,València,17,4,1998,Hombre,3014.28,No,1.0,Grup D,Arnau Castells Sánchez,True,1998-04-17,27,0.08
+Maria,Silva Oliveira,Portugal,Lisboa,4,9,1993,,3125.52,No,1.0,Grup D,Maria Silva Oliveira,False,1993-09-04,32,0.08
+Joan,Romero,Espanya,Barcelona,26,4,1969,Otros,3429.0,No,1.0,Grup D,Joan Romero,True,1969-04-26,56,0.08
+Arnau,Ferrer,Espanya,València,24,3,1990,Otros,2813.4,Sí,,Grup D,Arnau Ferrer,True,1990-03-24,35,0.08
+María,Cruz,Mèxic,Ciutat de Mèxic,14,3,1958,Mujer,2865.2400000000002,Sí,,Grup D,María Cruz,False,1958-03-14,67,0.08
+Eva,Castells Romero,Espanya,Bilbao,25,7,1988,Mujer,2627.6400000000003,Sí,,Grup D,Eva Castells Romero,True,1988-07-25,37,0.08
+Marc,López,Espanya,Sevilla,8,2,1987,,3206.5200000000004,No,1.0,Grup D,Marc López,True,1987-02-08,39,0.08
+Joan,Martínez Sánchez,Espanya,València,18,2,1986,Hombre,3583.44,Sí,,Grup D,Joan Martínez Sánchez,True,1986-02-18,40,0.08
+Laia,Ferrer,Espanya,Barcelona,21,12,1987,Mujer,3051.0,Sí,,Grup D,Laia Ferrer,True,1987-12-21,38,0.08
+Laia,Sánchez López,Espanya,Bilbao,5,8,1972,Mujer,3201.1200000000003,No,1.0,Grup D,Laia Sánchez López,True,1972-08-05,53,0.08
+Clara,García Martínez,Espanya,Sevilla,2,9,1986,Mujer,2587.6800000000003,No,1.0,Grup D,Clara García Martínez,True,1986-09-02,39,0.08
+Marta,Castells,Espanya,Barcelona,2,10,2003,Mujer,2897.6400000000003,No,1.0,Grup D,Marta Castells,True,2003-10-02,22,0.08
+Florencia,Rodríguez Álvarez,Argentina,Còrdova,27,11,1999,Mujer,3255.1200000000003,No,1.0,Grup D,Florencia Rodríguez Álvarez,False,1999-11-27,26,0.08
+Laura,Schneider Müller,Alemanya,Munic,28,11,1990,Mujer,3000.2400000000002,No,1.0,Grup D,Laura Schneider Müller,False,1990-11-28,35,0.08
+Carla,Sánchez,Espanya,València,6,3,1957,Mujer,3187.0800000000004,Sí,,Grup D,Carla Sánchez,True,1957-03-06,68,0.08
+Clara,López,Espanya,València,17,2,1951,Mujer,3150.36,Sí,,Grup D,Clara López,True,1951-02-17,75,0.08
+Pau,García Romero,Espanya,Madrid,27,12,1983,Hombre,3046.6800000000003,No,1.0,Grup D,Pau García Romero,True,1983-12-27,42,0.08
+Arnau,Romero,Espanya,Bilbao,26,6,1951,Hombre,3595.32,Sí,,Grup D,Arnau Romero,True,1951-06-26,74,0.08
+Joan,Martínez Romero,Espanya,Sevilla,4,7,1971,Hombre,3213.0,No,1.0,Grup D,Joan Martínez Romero,True,1971-07-04,54,0.08
+Clara,Romero,Espanya,València,4,1,1974,Mujer,3262.6800000000003,Sí,,Grup D,Clara Romero,True,1974-01-04,52,0.08
+Arnau,López Martínez,Espanya,València,24,1,1970,Hombre,3513.2400000000002,Sí,,Grup D,Arnau López Martínez,True,1970-01-24,56,0.08
+Jonas,Schneider,Alemanya,Berlín,22,11,1985,Hombre,2974.32,Sí,,Grup D,Jonas Schneider,False,1985-11-22,40,0.08
+Toni,López,Espanya,Sevilla,10,3,1989,Hombre,3112.5600000000004,No,1.0,Grup D,Toni López,True,1989-03-10,36,0.08
+Pau,Castells,Espanya,Bilbao,20,7,1953,Hombre,3188.1600000000003,No,1.0,Grup D,Pau Castells,True,1953-07-20,72,0.08
+Pau,García,Espanya,Madrid,11,3,1976,,3142.8,No,1.0,Grup D,Pau García,True,1976-03-11,49,0.08
+Eva,Ferrer Romero,Espanya,Barcelona,1,11,2005,Mujer,3130.92,No,1.0,Grup D,Eva Ferrer Romero,True,2005-11-01,20,0.08
+Michel,Girard Dubois,França,París,9,8,1970,Hombre,3210.84,No,1.0,Grup D,Michel Girard Dubois,False,1970-08-09,55,0.08
+Jordi,López,Espanya,Madrid,25,6,1995,Hombre,3518.6400000000003,No,1.0,Grup D,Jordi López,True,1995-06-25,30,0.08
+Clara,Sánchez,Espanya,Madrid,1,10,2002,Otros,3393.36,Sí,,Grup D,Clara Sánchez,True,2002-10-01,23,0.08
+Laia,López Castells,Espanya,Madrid,13,8,1971,,2824.2000000000003,Sí,,Grup D,Laia López Castells,True,1971-08-13,54,0.08
+Oriol,López Castells,Espanya,Madrid,14,4,1987,Hombre,3624.48,No,1.0,Grup D,Oriol López Castells,True,1987-04-14,38,0.08
+Leon,Schneider Schneider,Alemanya,Hamburg,16,10,1977,Hombre,3222.7200000000003,No,1.0,Grup D,Leon Schneider Schneider,False,1977-10-16,48,0.08
+Joan,Martínez Ferrer,Espanya,València,12,3,1964,Hombre,3137.4,No,1.0,Grup D,Joan Martínez Ferrer,True,1964-03-12,61,0.08
+Giovanni,Rossi Russo,Itàlia,Torí,10,12,2000,Hombre,3093.1200000000003,Sí,,Grup D,Giovanni Rossi Russo,False,2000-12-10,25,0.08
+Oriol,Ferrer,Espanya,Madrid,12,3,1995,Hombre,3517.5600000000004,Sí,,Grup D,Oriol Ferrer,True,1995-03-12,30,0.08
+Beatriz,Ferreira Pereira,Portugal,Lisboa,25,10,2004,Mujer,2566.0800000000004,Sí,,Grup D,Beatriz Ferreira Pereira,False,2004-10-25,21,0.08
+Marta,López,Espanya,Madrid,9,7,2004,Mujer,2986.2000000000003,No,1.0,Grup D,Marta López,True,2004-07-09,21,0.08
+Clara,López Castells,Espanya,València,9,4,1982,Mujer,3242.1600000000003,No,1.0,Grup D,Clara López Castells,True,1982-04-09,43,0.08
+Anna,Sánchez Castells,Espanya,Sevilla,1,2,1960,Mujer,2840.4,No,1.0,Grup D,Anna Sánchez Castells,True,1960-02-01,66,0.08

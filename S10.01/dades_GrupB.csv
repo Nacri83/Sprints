@@ -1,0 +1,319 @@
+Nom,Cognoms,País d'origen,Ciutat,Dia,Mes,Any,Gènere,Salari mensual,Fills,No Fills,Grup Professional,Nombre completo,Nacido en España,Fecha_nacimiento,Edad_actual,Increment
+Inês,Ferreira Silva,Portugal,Lisboa,25,2,1953,Mujer,1184.04,No,1.0,Grup B,Inês Ferreira Silva,False,1953-02-25,73,0.035
+Khadija,Bennani Bennani,Marroc,Rabat,20,1,1995,Mujer,2012.0399999999997,No,1.0,Grup B,Khadija Bennani Bennani,False,1995-01-20,31,0.035
+Toni,Castells Romero,Espanya,Barcelona,13,4,1961,Hombre,1488.33,No,1.0,Grup B,Toni Castells Romero,True,1961-04-13,64,0.035
+Núria,García López,Espanya,Madrid,8,6,1969,Mujer,1422.09,No,1.0,Grup B,Núria García López,True,1969-06-08,56,0.035
+Toni,Castells Martínez,Espanya,Barcelona,10,1,1981,Hombre,2175.5699999999997,Sí,,Grup B,Toni Castells Martínez,True,1981-01-10,45,0.035
+Chloé,Lefevre,França,Marsella,10,9,1973,Mujer,1967.5349999999999,Sí,,Grup B,Chloé Lefevre,False,1973-09-10,52,0.035
+Marc,Romero Martínez,Espanya,Bilbao,4,7,1993,Hombre,2097.9449999999997,Sí,,Grup B,Marc Romero Martínez,True,1993-07-04,32,0.035
+Oriol,López Ferrer,Espanya,Barcelona,3,11,1969,Hombre,1550.4299999999998,Sí,,Grup B,Oriol López Ferrer,True,1969-11-03,56,0.035
+Toni,Martínez Castells,Espanya,Sevilla,20,4,1952,Otros,2203.515,No,1.0,Grup B,Toni Martínez Castells,True,1952-04-20,73,0.035
+Isla,Jones,Regne Unit,Manchester,26,6,1985,Mujer,1461.4199999999998,Sí,,Grup B,Isla Jones,False,1985-06-26,40,0.035
+Eva,Ferrer Martínez,Espanya,Sevilla,4,5,1960,Mujer,1470.735,No,1.0,Grup B,Eva Ferrer Martínez,True,1960-05-04,65,0.035
+Marc,Ferrer Ferrer,Espanya,Bilbao,20,3,1974,Hombre,1604.2499999999998,Sí,,Grup B,Marc Ferrer Ferrer,True,1974-03-20,51,0.035
+Pau,Martínez,Espanya,Madrid,17,8,1999,Hombre,2039.985,No,1.0,Grup B,Pau Martínez,True,1999-08-17,26,0.035
+Giulia,Conti,Itàlia,Roma,8,7,1998,Mujer,2036.8799999999999,Sí,,Grup B,Giulia Conti,False,1998-07-08,27,0.035
+Anna,Sánchez,Espanya,Sevilla,21,10,1955,Mujer,1349.6399999999999,No,1.0,Grup B,Anna Sánchez,True,1955-10-21,70,0.035
+Pau,Ferrer,Espanya,Bilbao,25,4,1957,Hombre,1365.165,Sí,,Grup B,Pau Ferrer,True,1957-04-25,68,0.035
+Eva,López,Espanya,Bilbao,16,12,1974,Mujer,2031.705,No,1.0,Grup B,Eva López,True,1974-12-16,51,0.035
+Andrés,González,Mèxic,Guadalajara,26,2,1992,Hombre,2358.765,Sí,,Grup B,Andrés González,False,1992-02-26,34,0.035
+Clara,Sánchez López,Espanya,València,27,7,1955,Mujer,2083.455,Sí,,Grup B,Clara Sánchez López,True,1955-07-27,70,0.035
+Anna,Castells Romero,Espanya,València,25,8,1978,Mujer,1730.5199999999998,No,1.0,Grup B,Anna Castells Romero,True,1978-08-25,47,0.035
+Eva,Sánchez,Espanya,Bilbao,10,1,1977,Mujer,1953.0449999999998,No,1.0,Grup B,Eva Sánchez,True,1977-01-10,49,0.035
+Joan,Ferrer,Espanya,Bilbao,13,11,1994,Hombre,1574.235,No,1.0,Grup B,Joan Ferrer,True,1994-11-13,31,0.035
+Anna,Sánchez García,Espanya,Sevilla,13,7,1993,Mujer,1502.82,No,1.0,Grup B,Anna Sánchez García,True,1993-07-13,32,0.035
+Khadija,Fassi,Marroc,Rabat,10,5,1970,Mujer,1471.77,No,1.0,Grup B,Khadija Fassi,False,1970-05-10,55,0.035
+Marta,Romero,Espanya,València,25,11,2002,Mujer,1302.03,No,1.0,Grup B,Marta Romero,True,2002-11-25,23,0.035
+Núria,Romero,Espanya,Madrid,26,10,1993,Mujer,1399.32,Sí,,Grup B,Núria Romero,True,1993-10-26,32,0.035
+Arnau,García,Espanya,València,2,1,1954,Hombre,2200.41,No,1.0,Grup B,Arnau García,True,1954-01-02,72,0.035
+Núria,López,Espanya,Bilbao,1,1,1973,Mujer,1725.3449999999998,Sí,,Grup B,Núria López,True,1973-01-01,53,0.035
+Toni,Castells,Espanya,València,1,4,1963,Hombre,1825.7399999999998,Sí,,Grup B,Toni Castells,True,1963-04-01,62,0.035
+Gabriela,González,Mèxic,Ciutat de Mèxic,17,6,1955,Mujer,1668.4199999999998,Sí,,Grup B,Gabriela González,False,1955-06-17,70,0.035
+Pau,Sánchez,Espanya,Barcelona,13,3,1962,Hombre,1524.5549999999998,No,1.0,Grup B,Pau Sánchez,True,1962-03-13,63,0.035
+Laia,Sánchez Castells,Espanya,Barcelona,21,11,1970,Mujer,2128.995,Sí,,Grup B,Laia Sánchez Castells,True,1970-11-21,55,0.035
+Toni,Castells,Espanya,Bilbao,7,6,1990,Hombre,1732.59,No,1.0,Grup B,Toni Castells,True,1990-06-07,35,0.035
+Chloé,Girard,França,Marsella,17,4,1977,Mujer,2054.475,Sí,,Grup B,Chloé Girard,False,1977-04-17,48,0.035
+Anna,Castells Martínez,Espanya,València,3,4,1991,Mujer,1463.4899999999998,No,1.0,Grup B,Anna Castells Martínez,True,1991-04-03,34,0.035
+Laura,Schneider Fischer,Alemanya,Berlín,2,2,1958,Mujer,1830.915,Sí,,Grup B,Laura Schneider Fischer,False,1958-02-02,68,0.035
+Oriol,López,Espanya,València,27,6,2002,Hombre,1353.78,No,1.0,Grup B,Oriol López,True,2002-06-27,23,0.035
+Núria,García Ferrer,Espanya,Sevilla,17,6,1957,Otros,1283.3999999999999,No,1.0,Grup B,Núria García Ferrer,True,1957-06-17,68,0.035
+Daniel,Gutiérrez Castro,Colòmbia,Medellín,4,5,1976,Hombre,1506.9599999999998,No,1.0,Grup B,Daniel Gutiérrez Castro,False,1976-05-04,49,0.035
+Jordi,Ferrer,Espanya,València,21,6,1967,Hombre,1376.55,Sí,,Grup B,Jordi Ferrer,True,1967-06-21,58,0.035
+Pau,López Martínez,Espanya,Bilbao,22,5,1967,Hombre,2199.375,Sí,,Grup B,Pau López Martínez,True,1967-05-22,58,0.035
+Joan,Romero,Espanya,Bilbao,15,11,1987,Hombre,1581.4799999999998,No,1.0,Grup B,Joan Romero,True,1987-11-15,38,0.035
+Oriol,Sánchez Sánchez,Espanya,Bilbao,17,3,2002,Hombre,1878.5249999999999,Sí,,Grup B,Oriol Sánchez Sánchez,True,2002-03-17,23,0.035
+Marta,Castells Ferrer,Espanya,Sevilla,15,3,1981,Mujer,1937.5199999999998,Sí,,Grup B,Marta Castells Ferrer,True,1981-03-15,44,0.035
+Sofia,Oliveira,Portugal,Porto,5,7,1952,Mujer,1462.455,No,1.0,Grup B,Sofia Oliveira,False,1952-07-05,73,0.035
+Eva,Martínez,Espanya,Madrid,19,10,1974,,2085.5249999999996,No,1.0,Grup B,Eva Martínez,True,1974-10-19,51,0.035
+Toni,García,Espanya,Bilbao,20,9,1990,Hombre,1757.4299999999998,No,1.0,Grup B,Toni García,True,1990-09-20,35,0.035
+Oriol,Sánchez Martínez,Espanya,Sevilla,5,1,1981,Hombre,2008.935,No,1.0,Grup B,Oriol Sánchez Martínez,True,1981-01-05,45,0.035
+Anna,Ferrer,Espanya,València,6,10,1984,Mujer,1584.5849999999998,Sí,,Grup B,Anna Ferrer,True,1984-10-06,41,0.035
+Matías,Gómez Gómez,Argentina,Còrdova,18,8,2002,Hombre,2152.7999999999997,Sí,,Grup B,Matías Gómez Gómez,False,2002-08-18,23,0.035
+Jean,Girard Moreau,França,París,26,9,1991,,1628.0549999999998,Sí,,Grup B,Jean Girard Moreau,False,1991-09-26,34,0.035
+Pau,Martínez,Espanya,Madrid,14,2,1959,Hombre,2173.5,No,1.0,Grup B,Pau Martínez,True,1959-02-14,67,0.035
+Eva,Romero Ferrer,Espanya,València,7,12,1965,Mujer,1926.1349999999998,No,1.0,Grup B,Eva Romero Ferrer,True,1965-12-07,60,0.035
+Eva,Castells,Espanya,Madrid,9,7,1956,Mujer,1727.415,Sí,,Grup B,Eva Castells,True,1956-07-09,69,0.035
+Fatima,Fassi,Marroc,Casablanca,18,3,1958,Mujer,1194.3899999999999,No,1.0,Grup B,Fatima Fassi,False,1958-03-18,67,0.035
+Jordi,Ferrer,Espanya,Sevilla,15,2,1958,Hombre,1859.8949999999998,No,1.0,Grup B,Jordi Ferrer,True,1958-02-15,68,0.035
+Arnau,Sánchez,Espanya,Sevilla,21,10,1990,Hombre,2224.2149999999997,No,1.0,Grup B,Arnau Sánchez,True,1990-10-21,35,0.035
+Marta,Romero García,Espanya,Madrid,11,5,1973,Mujer,1996.5149999999999,No,1.0,Grup B,Marta Romero García,True,1973-05-11,52,0.035
+Marta,Romero,Espanya,Sevilla,27,4,1976,Mujer,1820.5649999999998,No,1.0,Grup B,Marta Romero,True,1976-04-27,49,0.035
+Toni,Romero,Espanya,València,19,1,1974,Hombre,1501.7849999999999,No,1.0,Grup B,Toni Romero,True,1974-01-19,52,0.035
+Arnau,Romero Romero,Espanya,València,8,10,1968,Hombre,1874.3849999999998,No,1.0,Grup B,Arnau Romero Romero,True,1968-10-08,57,0.035
+Toni,Sánchez,Espanya,Barcelona,1,1,1987,Hombre,1545.2549999999999,No,1.0,Grup B,Toni Sánchez,True,1987-01-01,39,0.035
+Jordi,Ferrer,Espanya,Sevilla,12,7,2003,Hombre,1462.455,No,1.0,Grup B,Jordi Ferrer,True,2003-07-12,22,0.035
+Anna,Sánchez,Espanya,València,25,2,1981,Mujer,1242.0,No,1.0,Grup B,Anna Sánchez,True,1981-02-25,45,0.035
+Oriol,Ferrer Romero,Espanya,Madrid,9,2,1985,Hombre,2038.9499999999998,No,1.0,Grup B,Oriol Ferrer Romero,True,1985-02-09,41,0.035
+Sophie,Smith,Regne Unit,Manchester,8,1,1957,Mujer,1297.8899999999999,Sí,,Grup B,Sophie Smith,False,1957-01-08,69,0.035
+Lea,Schneider Schneider,Alemanya,Berlín,23,10,2005,Mujer,2083.455,No,1.0,Grup B,Lea Schneider Schneider,False,2005-10-23,20,0.035
+José,González Ramírez,Mèxic,Ciutat de Mèxic,2,3,1955,Hombre,1735.695,No,1.0,Grup B,José González Ramírez,False,1955-03-02,70,0.035
+Sara,Gutiérrez,Colòmbia,Bogotà,26,2,1970,Mujer,1959.2549999999999,No,1.0,Grup B,Sara Gutiérrez,False,1970-02-26,56,0.035
+Eva,García,Espanya,Bilbao,18,10,1962,,2209.725,No,1.0,Grup B,Eva García,True,1962-10-18,63,0.035
+Jordi,Romero García,Espanya,Sevilla,6,8,2000,Hombre,2041.0199999999998,Sí,,Grup B,Jordi Romero García,True,2000-08-06,25,0.035
+Emily,Jones,Regne Unit,Londres,15,11,1969,Mujer,1318.59,No,1.0,Grup B,Emily Jones,False,1969-11-15,56,0.035
+Joan,Romero Sánchez,Espanya,Bilbao,24,7,1951,Hombre,1545.2549999999999,Sí,,Grup B,Joan Romero Sánchez,True,1951-07-24,74,0.035
+Joan,Romero Martínez,Espanya,Bilbao,19,11,1954,Hombre,2164.185,No,1.0,Grup B,Joan Romero Martínez,True,1954-11-19,71,0.035
+Joan,Sánchez,Espanya,València,9,8,1997,Hombre,2383.605,Sí,,Grup B,Joan Sánchez,True,1997-08-09,28,0.035
+Mohamed,El Amrani Zahraoui,Marroc,Casablanca,12,8,1984,Otros,1599.0749999999998,Sí,,Grup B,Mohamed El Amrani Zahraoui,False,1984-08-12,41,0.035
+Pau,Ferrer,Espanya,Barcelona,15,3,1991,Hombre,1555.6049999999998,Sí,,Grup B,Pau Ferrer,True,1991-03-15,34,0.035
+Toni,Ferrer,Espanya,Bilbao,24,2,1964,Otros,2214.8999999999996,No,1.0,Grup B,Toni Ferrer,True,1964-02-24,62,0.035
+Oriol,Castells,Espanya,Bilbao,17,3,1965,Hombre,2299.77,No,1.0,Grup B,Oriol Castells,True,1965-03-17,60,0.035
+Marco,Conti Rossi,Itàlia,Roma,4,1,1986,Hombre,1500.7499999999998,No,1.0,Grup B,Marco Conti Rossi,False,1986-01-04,40,0.035
+Mia,Fischer,Alemanya,Berlín,11,8,1950,Mujer,1611.495,Sí,,Grup B,Mia Fischer,False,1950-08-11,75,0.035
+Toni,Castells Ferrer,Espanya,Barcelona,15,11,1974,,1904.3999999999999,No,1.0,Grup B,Toni Castells Ferrer,True,1974-11-15,51,0.035
+Marc,Castells Sánchez,Espanya,Barcelona,24,6,2000,Hombre,1446.9299999999998,No,1.0,Grup B,Marc Castells Sánchez,True,2000-06-24,25,0.035
+Laia,Sánchez,Espanya,Sevilla,3,3,1982,Mujer,1914.7499999999998,Sí,,Grup B,Laia Sánchez,True,1982-03-03,43,0.035
+George,Jones Taylor,Regne Unit,Londres,27,5,2000,,2173.5,No,1.0,Grup B,George Jones Taylor,False,2000-05-27,25,0.035
+Núria,Castells,Espanya,València,25,12,1992,Mujer,2093.805,Sí,,Grup B,Núria Castells,True,1992-12-25,33,0.035
+Luisa,González Cruz,Mèxic,Ciutat de Mèxic,20,11,1990,Mujer,1243.0349999999999,Sí,,Grup B,Luisa González Cruz,False,1990-11-20,35,0.035
+Oriol,Romero García,Espanya,Barcelona,5,9,1972,Hombre,1512.135,No,1.0,Grup B,Oriol Romero García,True,1972-09-05,53,0.035
+Oriol,Martínez,Espanya,Sevilla,26,7,1957,Hombre,2361.87,No,1.0,Grup B,Oriol Martínez,True,1957-07-26,68,0.035
+Núria,Ferrer,Espanya,Barcelona,9,6,1959,,2029.6349999999998,No,1.0,Grup B,Núria Ferrer,True,1959-06-09,66,0.035
+Clara,García,Espanya,Sevilla,16,10,1951,Mujer,1479.0149999999999,Sí,,Grup B,Clara García,True,1951-10-16,74,0.035
+Valentina,Rojas,Colòmbia,Bogotà,6,9,1959,Mujer,1226.475,No,1.0,Grup B,Valentina Rojas,False,1959-09-06,66,0.035
+Carla,Sánchez,Espanya,Madrid,2,7,1990,Mujer,1575.27,Sí,,Grup B,Carla Sánchez,True,1990-07-02,35,0.035
+Marta,Romero García,Espanya,València,3,4,1972,Otros,1397.25,Sí,,Grup B,Marta Romero García,True,1972-04-03,53,0.035
+Valentina,Torres,Colòmbia,Bogotà,14,1,1968,Mujer,2111.3999999999996,No,1.0,Grup B,Valentina Torres,False,1968-01-14,58,0.035
+Jordi,Romero Martínez,Espanya,Barcelona,11,6,1983,Hombre,2383.605,No,1.0,Grup B,Jordi Romero Martínez,True,1983-06-11,42,0.035
+Laia,García,Espanya,Madrid,9,8,1991,Mujer,1547.3249999999998,No,1.0,Grup B,Laia García,True,1991-08-09,34,0.035
+Anna,Ferrer Castells,Espanya,Bilbao,18,8,1992,Mujer,1363.0949999999998,Sí,,Grup B,Anna Ferrer Castells,True,1992-08-18,33,0.035
+Toni,López,Espanya,Madrid,12,10,1964,Hombre,1414.8449999999998,Sí,,Grup B,Toni López,True,1964-10-12,61,0.035
+Marta,Ferrer Sánchez,Espanya,València,18,3,1952,Mujer,1344.465,Sí,,Grup B,Marta Ferrer Sánchez,True,1952-03-18,73,0.035
+Marco,Russo,Itàlia,Torí,13,7,1982,Hombre,2270.79,No,1.0,Grup B,Marco Russo,False,1982-07-13,43,0.035
+Lucas,Álvarez Álvarez,Argentina,Còrdova,17,5,1981,Hombre,1978.9199999999998,Sí,,Grup B,Lucas Álvarez Álvarez,False,1981-05-17,44,0.035
+Arnau,García,Espanya,València,11,2,1953,Hombre,1952.0099999999998,No,1.0,Grup B,Arnau García,True,1953-02-11,73,0.035
+Arnau,López,Espanya,Madrid,4,4,1994,Otros,1866.1049999999998,No,1.0,Grup B,Arnau López,True,1994-04-04,31,0.035
+Camila,Ramírez González,Mèxic,Guadalajara,10,4,1965,Mujer,1917.8549999999998,No,1.0,Grup B,Camila Ramírez González,False,1965-04-10,60,0.035
+Laia,Ferrer,Espanya,Bilbao,22,5,1978,Mujer,1260.6299999999999,No,1.0,Grup B,Laia Ferrer,True,1978-05-22,47,0.035
+Marta,Romero,Espanya,Bilbao,8,7,1978,Mujer,1910.61,No,1.0,Grup B,Marta Romero,True,1978-07-08,47,0.035
+Clara,Ferrer Martínez,Espanya,Sevilla,24,5,1951,Mujer,1828.8449999999998,No,1.0,Grup B,Clara Ferrer Martínez,True,1951-05-24,74,0.035
+María,González Hernández,Mèxic,Ciutat de Mèxic,14,7,1965,Mujer,1671.5249999999999,No,1.0,Grup B,María González Hernández,False,1965-07-14,60,0.035
+Marc,Sánchez Castells,Espanya,Sevilla,21,3,1980,Hombre,1323.7649999999999,No,1.0,Grup B,Marc Sánchez Castells,True,1980-03-21,45,0.035
+Núria,García,Espanya,Barcelona,2,5,1989,Mujer,1683.945,Sí,,Grup B,Núria García,True,1989-05-02,36,0.035
+Laia,López,Espanya,Madrid,21,4,1984,Mujer,1220.2649999999999,Sí,,Grup B,Laia López,True,1984-04-21,41,0.035
+Carla,García,Espanya,Barcelona,6,10,2001,Mujer,2030.6699999999998,Sí,,Grup B,Carla García,True,2001-10-06,24,0.035
+Núria,Romero Martínez,Espanya,València,16,3,2004,Mujer,1426.2299999999998,Sí,,Grup B,Núria Romero Martínez,True,2004-03-16,21,0.035
+Sophie,Moreau Lefevre,França,Marsella,11,1,1995,Mujer,1802.9699999999998,Sí,,Grup B,Sophie Moreau Lefevre,False,1995-01-11,31,0.035
+Núria,Ferrer Romero,Espanya,Sevilla,16,3,1989,Mujer,1300.995,No,1.0,Grup B,Núria Ferrer Romero,True,1989-03-16,36,0.035
+Arnau,López López,Espanya,Bilbao,6,6,1991,Hombre,1430.37,No,1.0,Grup B,Arnau López López,True,1991-06-06,34,0.035
+Clara,Romero López,Espanya,Barcelona,8,12,1985,Mujer,1433.475,Sí,,Grup B,Clara Romero López,True,1985-12-08,40,0.035
+Carla,López Sánchez,Espanya,Bilbao,11,10,1961,Mujer,1682.9099999999999,Sí,,Grup B,Carla López Sánchez,True,1961-10-11,64,0.035
+Toni,Ferrer,Espanya,Bilbao,5,9,1957,Hombre,1464.5249999999999,No,1.0,Grup B,Toni Ferrer,True,1957-09-05,68,0.035
+Anna,Castells Martínez,Espanya,Bilbao,6,3,1959,Mujer,1615.6349999999998,Sí,,Grup B,Anna Castells Martínez,True,1959-03-06,66,0.035
+Mia,Fischer,Alemanya,Munic,8,9,1953,Mujer,1724.31,No,1.0,Grup B,Mia Fischer,False,1953-09-08,72,0.035
+Núria,Martínez Romero,Espanya,Bilbao,9,7,1965,Mujer,1675.665,Sí,,Grup B,Núria Martínez Romero,True,1965-07-09,60,0.035
+Sara,Torres Castro,Colòmbia,Medellín,25,2,1992,Mujer,1380.6899999999998,Sí,,Grup B,Sara Torres Castro,False,1992-02-25,34,0.035
+Marco,Conti Russo,Itàlia,Torí,28,1,2005,Hombre,2072.0699999999997,No,1.0,Grup B,Marco Conti Russo,False,2005-01-28,21,0.035
+Ali,Bennani,Marroc,Casablanca,22,3,1980,Hombre,2235.6,Sí,,Grup B,Ali Bennani,False,1980-03-22,45,0.035
+Marc,Ferrer García,Espanya,València,21,4,1996,Hombre,1674.6299999999999,No,1.0,Grup B,Marc Ferrer García,True,1996-04-21,29,0.035
+Joan,Romero Martínez,Espanya,Bilbao,24,12,1985,Hombre,1825.7399999999998,No,1.0,Grup B,Joan Romero Martínez,True,1985-12-24,40,0.035
+Marta,Romero Ferrer,Espanya,Barcelona,7,2,1962,Mujer,1382.76,Sí,,Grup B,Marta Romero Ferrer,True,1962-02-07,64,0.035
+Carla,Castells Castells,Espanya,Sevilla,22,6,1979,Mujer,1909.5749999999998,No,1.0,Grup B,Carla Castells Castells,True,1979-06-22,46,0.035
+Arnau,Martínez,Espanya,Bilbao,25,4,1959,Hombre,1420.02,Sí,,Grup B,Arnau Martínez,True,1959-04-25,66,0.035
+Marta,Romero,Espanya,Sevilla,26,10,2002,Mujer,1336.185,Sí,,Grup B,Marta Romero,True,2002-10-26,23,0.035
+Camille,Girard Lefevre,França,París,26,1,2001,Mujer,1574.235,Sí,,Grup B,Camille Girard Lefevre,False,2001-01-26,25,0.035
+Carla,López,Espanya,Bilbao,7,7,2003,Mujer,1821.6,Sí,,Grup B,Carla López,True,2003-07-07,22,0.035
+Toni,Castells Romero,Espanya,València,26,8,1988,Hombre,1337.2199999999998,Sí,,Grup B,Toni Castells Romero,True,1988-08-26,37,0.035
+Leon,Schneider,Alemanya,Munic,5,5,1981,Hombre,1730.5199999999998,No,1.0,Grup B,Leon Schneider,False,1981-05-05,44,0.035
+Marta,García,Espanya,Bilbao,19,8,1950,Mujer,1481.0849999999998,No,1.0,Grup B,Marta García,True,1950-08-19,75,0.035
+Francesca,Ferrari Ferrari,Itàlia,Torí,21,4,1990,,1362.06,No,1.0,Grup B,Francesca Ferrari Ferrari,False,1990-04-21,35,0.035
+Núria,Martínez Ferrer,Espanya,Barcelona,7,11,1991,Mujer,1558.7099999999998,No,1.0,Grup B,Núria Martínez Ferrer,True,1991-11-07,34,0.035
+Joan,García,Espanya,Madrid,22,10,2000,Hombre,2139.345,No,1.0,Grup B,Joan García,True,2000-10-22,25,0.035
+Oriol,Castells,Espanya,Bilbao,13,4,1972,Hombre,1647.7199999999998,Sí,,Grup B,Oriol Castells,True,1972-04-13,53,0.035
+Jordi,Ferrer López,Espanya,Madrid,13,9,1955,Hombre,1750.185,Sí,,Grup B,Jordi Ferrer López,True,1955-09-13,70,0.035
+Marc,López Sánchez,Espanya,Sevilla,11,4,1968,Hombre,1361.0249999999999,No,1.0,Grup B,Marc López Sánchez,True,1968-04-11,57,0.035
+Marta,López Sánchez,Espanya,Madrid,17,5,1992,Mujer,1936.485,Sí,,Grup B,Marta López Sánchez,True,1992-05-17,33,0.035
+Toni,Castells,Espanya,València,4,9,1964,Hombre,1342.395,No,1.0,Grup B,Toni Castells,True,1964-09-04,61,0.035
+Núria,Ferrer,Espanya,Barcelona,19,9,2001,Mujer,1187.145,Sí,,Grup B,Núria Ferrer,True,2001-09-19,24,0.035
+Marc,Romero,Espanya,Madrid,2,8,1984,Hombre,1692.225,No,1.0,Grup B,Marc Romero,True,1984-08-02,41,0.035
+Laia,Castells López,Espanya,Barcelona,15,11,1969,Mujer,1533.87,No,1.0,Grup B,Laia Castells López,True,1969-11-15,56,0.035
+Eva,Castells Martínez,Espanya,Barcelona,15,7,1996,Mujer,1417.9499999999998,Sí,,Grup B,Eva Castells Martínez,True,1996-07-15,29,0.035
+Lukas,Müller Fischer,Alemanya,Hamburg,28,3,1971,Hombre,2113.47,No,1.0,Grup B,Lukas Müller Fischer,False,1971-03-28,54,0.035
+Marta,Ferrer,Espanya,Madrid,25,5,1976,Mujer,1989.2699999999998,No,1.0,Grup B,Marta Ferrer,True,1976-05-25,49,0.035
+Laia,Romero,Espanya,Sevilla,18,5,1960,Mujer,1401.3899999999999,No,1.0,Grup B,Laia Romero,True,1960-05-18,65,0.035
+Toni,Ferrer,Espanya,Bilbao,20,2,1980,Hombre,1504.8899999999999,No,1.0,Grup B,Toni Ferrer,True,1980-02-20,46,0.035
+Laia,García Ferrer,Espanya,Bilbao,19,1,1970,Mujer,1826.7749999999999,No,1.0,Grup B,Laia García Ferrer,True,1970-01-19,56,0.035
+Beatriz,Oliveira Ferreira,Portugal,Lisboa,5,9,1985,Mujer,1602.1799999999998,Sí,,Grup B,Beatriz Oliveira Ferreira,False,1985-09-05,40,0.035
+Arnau,Ferrer Romero,Espanya,València,13,7,1958,Hombre,1848.5099999999998,Sí,,Grup B,Arnau Ferrer Romero,True,1958-07-13,67,0.035
+Santiago,Gutiérrez Torres,Colòmbia,Medellín,4,12,1959,Hombre,2316.33,Sí,,Grup B,Santiago Gutiérrez Torres,False,1959-12-04,66,0.035
+Gabriela,Ramírez,Mèxic,Ciutat de Mèxic,19,2,1990,Mujer,1623.915,Sí,,Grup B,Gabriela Ramírez,False,1990-02-19,36,0.035
+Carla,Martínez,Espanya,València,17,4,1999,Mujer,1325.8349999999998,No,1.0,Grup B,Carla Martínez,True,1999-04-17,26,0.035
+Youssef,El Amrani Fassi,Marroc,Rabat,13,10,1981,Hombre,1847.475,No,1.0,Grup B,Youssef El Amrani Fassi,False,1981-10-13,44,0.035
+Martina,Rodríguez Gómez,Argentina,Buenos Aires,10,3,1978,Mujer,1337.2199999999998,Sí,,Grup B,Martina Rodríguez Gómez,False,1978-03-10,47,0.035
+Antoine,Lefevre,França,Marsella,1,10,1953,Hombre,1806.0749999999998,No,1.0,Grup B,Antoine Lefevre,False,1953-10-01,72,0.035
+Eva,Ferrer Romero,Espanya,Bilbao,19,5,1976,Mujer,1461.4199999999998,No,1.0,Grup B,Eva Ferrer Romero,True,1976-05-19,49,0.035
+Lucas,Fernández Álvarez,Argentina,Còrdova,27,4,1993,Hombre,2061.72,Sí,,Grup B,Lucas Fernández Álvarez,False,1993-04-27,32,0.035
+Julieta,Rodríguez,Argentina,Buenos Aires,24,7,1979,Mujer,1222.3349999999998,No,1.0,Grup B,Julieta Rodríguez,False,1979-07-24,46,0.035
+Jordi,Ferrer,Espanya,Sevilla,5,3,1993,Hombre,1710.8549999999998,Sí,,Grup B,Jordi Ferrer,True,1993-03-05,32,0.035
+Pau,Ferrer García,Espanya,Barcelona,21,3,1982,Hombre,1314.4499999999998,No,1.0,Grup B,Pau Ferrer García,True,1982-03-21,43,0.035
+Emily,Taylor Jones,Regne Unit,Manchester,28,3,1958,Mujer,2104.1549999999997,No,1.0,Grup B,Emily Taylor Jones,False,1958-03-28,67,0.035
+Anna,Castells García,Espanya,Bilbao,26,3,1950,Mujer,1516.2749999999999,Sí,,Grup B,Anna Castells García,True,1950-03-26,75,0.035
+Toni,Martínez,Espanya,Bilbao,5,7,1973,Hombre,1700.5049999999999,Sí,,Grup B,Toni Martínez,True,1973-07-05,52,0.035
+Núria,Ferrer,Espanya,Barcelona,7,12,1983,Mujer,2032.7399999999998,No,1.0,Grup B,Núria Ferrer,True,1983-12-07,42,0.035
+Marta,García,Espanya,València,14,5,1976,Mujer,1637.37,No,1.0,Grup B,Marta García,True,1976-05-14,49,0.035
+Sara,Castro,Colòmbia,Bogotà,4,12,1974,Mujer,1577.34,Sí,,Grup B,Sara Castro,False,1974-12-04,51,0.035
+Chiara,Russo Conti,Itàlia,Roma,6,11,1985,Otros,1491.435,Sí,,Grup B,Chiara Russo Conti,False,1985-11-06,40,0.035
+Eva,Castells Romero,Espanya,Madrid,24,1,1958,Otros,1974.7799999999997,No,1.0,Grup B,Eva Castells Romero,True,1958-01-24,68,0.035
+Jordi,Romero,Espanya,Bilbao,17,11,1969,Hombre,1405.53,No,1.0,Grup B,Jordi Romero,True,1969-11-17,56,0.035
+Gabriela,Ramírez González,Mèxic,Ciutat de Mèxic,26,3,1988,Mujer,1262.6999999999998,No,1.0,Grup B,Gabriela Ramírez González,False,1988-03-26,37,0.035
+Eva,Ferrer Ferrer,Espanya,València,24,12,1979,Mujer,1642.5449999999998,No,1.0,Grup B,Eva Ferrer Ferrer,True,1979-12-24,46,0.035
+Laia,López Sánchez,Espanya,Barcelona,11,5,1964,Mujer,2163.1499999999996,No,1.0,Grup B,Laia López Sánchez,True,1964-05-11,61,0.035
+Marta,Martínez,Espanya,Barcelona,4,7,1980,Mujer,1718.1,Sí,,Grup B,Marta Martínez,True,1980-07-04,45,0.035
+Eva,López Martínez,Espanya,Bilbao,27,7,1998,Mujer,1380.6899999999998,No,1.0,Grup B,Eva López Martínez,True,1998-07-27,27,0.035
+Laia,Castells,Espanya,Bilbao,20,11,2000,Mujer,1757.4299999999998,Sí,,Grup B,Laia Castells,True,2000-11-20,25,0.035
+Laia,Castells Ferrer,Espanya,Sevilla,23,6,1986,Mujer,1219.23,Sí,,Grup B,Laia Castells Ferrer,True,1986-06-23,39,0.035
+Laura,Castro Torres,Colòmbia,Medellín,6,6,1997,Mujer,1488.33,No,1.0,Grup B,Laura Castro Torres,False,1997-06-06,28,0.035
+Laura,Schmidt,Alemanya,Hamburg,3,5,1956,,1891.9799999999998,Sí,,Grup B,Laura Schmidt,False,1956-05-03,69,0.035
+Toni,Romero García,Espanya,Barcelona,12,6,1963,Hombre,1653.9299999999998,No,1.0,Grup B,Toni Romero García,True,1963-06-12,62,0.035
+Arnau,Martínez Martínez,Espanya,Sevilla,6,12,1960,Hombre,1851.6149999999998,No,1.0,Grup B,Arnau Martínez Martínez,True,1960-12-06,65,0.035
+Anna,López,Espanya,Madrid,17,1,1964,Otros,1348.6049999999998,No,1.0,Grup B,Anna López,True,1964-01-17,62,0.035
+Marc,Castells,Espanya,Bilbao,16,12,2002,Hombre,2206.62,No,1.0,Grup B,Marc Castells,True,2002-12-16,23,0.035
+Ali,El Amrani El Amrani,Marroc,Rabat,4,5,1971,Hombre,2201.4449999999997,No,1.0,Grup B,Ali El Amrani El Amrani,False,1971-05-04,54,0.035
+Juan,Álvarez Fernández,Argentina,Buenos Aires,11,8,1991,Hombre,1461.4199999999998,Sí,,Grup B,Juan Álvarez Fernández,False,1991-08-11,34,0.035
+Pau,Sánchez,Espanya,Bilbao,20,5,1994,Hombre,2252.16,Sí,,Grup B,Pau Sánchez,True,1994-05-20,31,0.035
+Maria,Pereira Pereira,Portugal,Porto,19,6,1980,Mujer,1730.5199999999998,No,1.0,Grup B,Maria Pereira Pereira,False,1980-06-19,45,0.035
+Joan,Romero López,Espanya,Barcelona,11,1,1950,Hombre,2051.37,Sí,,Grup B,Joan Romero López,True,1950-01-11,76,0.035
+Laia,Castells Martínez,Espanya,Madrid,8,4,1975,Mujer,1492.4699999999998,No,1.0,Grup B,Laia Castells Martínez,True,1975-04-08,50,0.035
+Marta,García,Espanya,Bilbao,23,2,1999,Mujer,1635.3,Sí,,Grup B,Marta García,True,1999-02-23,27,0.035
+Marc,Romero,Espanya,Sevilla,2,11,1975,Hombre,1623.915,No,1.0,Grup B,Marc Romero,True,1975-11-02,50,0.035
+Arnau,Martínez,Espanya,Madrid,20,12,1999,Hombre,2173.5,No,1.0,Grup B,Arnau Martínez,True,1999-12-20,26,0.035
+Carla,Sánchez,Espanya,València,17,8,1975,Mujer,1560.78,Sí,,Grup B,Carla Sánchez,True,1975-08-17,50,0.035
+Eva,López Sánchez,Espanya,València,25,4,1987,Mujer,2159.0099999999998,No,1.0,Grup B,Eva López Sánchez,True,1987-04-25,38,0.035
+Lucas,Álvarez,Argentina,Buenos Aires,22,3,1984,Hombre,1728.4499999999998,No,1.0,Grup B,Lucas Álvarez,False,1984-03-22,41,0.035
+Núria,Martínez Castells,Espanya,Sevilla,8,12,1962,Mujer,1345.5,No,1.0,Grup B,Núria Martínez Castells,True,1962-12-08,63,0.035
+Jonas,Schneider Schmidt,Alemanya,Hamburg,15,8,1983,Hombre,1527.6599999999999,Sí,,Grup B,Jonas Schneider Schmidt,False,1983-08-15,42,0.035
+Pau,Martínez García,Espanya,Barcelona,15,11,1989,Hombre,2332.89,No,1.0,Grup B,Pau Martínez García,True,1989-11-15,36,0.035
+Sofia,Oliveira,Portugal,Lisboa,2,4,1998,Mujer,2076.21,No,1.0,Grup B,Sofia Oliveira,False,1998-04-02,27,0.035
+Beatriz,Ferreira,Portugal,Porto,11,5,1950,Otros,1629.09,Sí,,Grup B,Beatriz Ferreira,False,1950-05-11,75,0.035
+Joan,Romero Martínez,Espanya,Bilbao,16,2,1996,Hombre,1913.715,No,1.0,Grup B,Joan Romero Martínez,True,1996-02-16,30,0.035
+Miguel,González Cruz,Mèxic,Ciutat de Mèxic,7,8,1965,Hombre,2122.785,No,1.0,Grup B,Miguel González Cruz,False,1965-08-07,60,0.035
+Eva,Martínez,Espanya,Madrid,13,6,1994,Mujer,1189.215,No,1.0,Grup B,Eva Martínez,True,1994-06-13,31,0.035
+Carla,Romero,Espanya,Barcelona,17,6,1998,Mujer,1847.475,Sí,,Grup B,Carla Romero,True,1998-06-17,27,0.035
+Jordi,García Castells,Espanya,València,4,7,1970,Hombre,1912.6799999999998,Sí,,Grup B,Jordi García Castells,True,1970-07-04,55,0.035
+Maria,Ferreira Ferreira,Portugal,Porto,4,3,1996,Mujer,1962.36,Sí,,Grup B,Maria Ferreira Ferreira,False,1996-03-04,29,0.035
+Núria,Martínez,Espanya,València,26,9,1958,Mujer,1978.9199999999998,No,1.0,Grup B,Núria Martínez,True,1958-09-26,67,0.035
+Jean,Dubois Moreau,França,Marsella,7,12,1967,Hombre,2008.935,No,1.0,Grup B,Jean Dubois Moreau,False,1967-12-07,58,0.035
+Eva,Ferrer,Espanya,Madrid,22,5,1997,Mujer,1268.9099999999999,No,1.0,Grup B,Eva Ferrer,True,1997-05-22,28,0.035
+Andrés,González,Mèxic,Guadalajara,13,10,1977,Hombre,1794.6899999999998,No,1.0,Grup B,Andrés González,False,1977-10-13,48,0.035
+Valentina,Gutiérrez Rojas,Colòmbia,Medellín,2,10,1959,Mujer,1788.4799999999998,Sí,,Grup B,Valentina Gutiérrez Rojas,False,1959-10-02,66,0.035
+Toni,Sánchez Sánchez,Espanya,València,20,1,1989,Hombre,2373.2549999999997,No,1.0,Grup B,Toni Sánchez Sánchez,True,1989-01-20,37,0.035
+Arnau,Martínez Sánchez,Espanya,Barcelona,20,6,1971,Hombre,1421.0549999999998,No,1.0,Grup B,Arnau Martínez Sánchez,True,1971-06-20,54,0.035
+Toni,Sánchez,Espanya,Madrid,6,3,1996,Hombre,2123.8199999999997,No,1.0,Grup B,Toni Sánchez,True,1996-03-06,29,0.035
+Oriol,Romero López,Espanya,Bilbao,3,5,1951,Hombre,2117.6099999999997,No,1.0,Grup B,Oriol Romero López,True,1951-05-03,74,0.035
+Sofia,Silva Oliveira,Portugal,Lisboa,13,8,1977,,1499.715,No,1.0,Grup B,Sofia Silva Oliveira,False,1977-08-13,48,0.035
+Tomás,Gómez,Argentina,Buenos Aires,3,10,1972,Hombre,1506.9599999999998,No,1.0,Grup B,Tomás Gómez,False,1972-10-03,53,0.035
+Carla,Castells,Espanya,Barcelona,24,10,1962,Mujer,1291.6799999999998,Sí,,Grup B,Carla Castells,True,1962-10-24,63,0.035
+Laia,López,Espanya,Madrid,15,10,1978,Mujer,1497.645,Sí,,Grup B,Laia López,True,1978-10-15,47,0.035
+Giovanni,Ferrari,Itàlia,Torí,8,2,1964,Hombre,1519.3799999999999,No,1.0,Grup B,Giovanni Ferrari,False,1964-02-08,62,0.035
+Núria,Romero,Espanya,Barcelona,24,12,1970,Mujer,2006.8649999999998,No,1.0,Grup B,Núria Romero,True,1970-12-24,55,0.035
+Arnau,Ferrer Romero,Espanya,Madrid,2,7,1975,Hombre,2272.8599999999997,No,1.0,Grup B,Arnau Ferrer Romero,True,1975-07-02,50,0.035
+Núria,Castells Ferrer,Espanya,Sevilla,13,10,2005,Mujer,2130.0299999999997,No,1.0,Grup B,Núria Castells Ferrer,True,2005-10-13,20,0.035
+Matías,Rodríguez Gómez,Argentina,Buenos Aires,28,9,1957,Hombre,1514.205,Sí,,Grup B,Matías Rodríguez Gómez,False,1957-09-28,68,0.035
+Laia,Sánchez,Espanya,Barcelona,27,1,1965,Mujer,1941.6599999999999,Sí,,Grup B,Laia Sánchez,True,1965-01-27,61,0.035
+Matías,Álvarez,Argentina,Còrdova,24,8,1954,Hombre,1745.0099999999998,Sí,,Grup B,Matías Álvarez,False,1954-08-24,71,0.035
+Florencia,Gómez Fernández,Argentina,Còrdova,12,7,1992,Mujer,1288.5749999999998,No,1.0,Grup B,Florencia Gómez Fernández,False,1992-07-12,33,0.035
+Marta,Sánchez Romero,Espanya,Barcelona,5,6,1993,Mujer,1366.1999999999998,No,1.0,Grup B,Marta Sánchez Romero,True,1993-06-05,32,0.035
+Pau,Romero Martínez,Espanya,Barcelona,16,9,1974,Hombre,1814.3549999999998,No,1.0,Grup B,Pau Romero Martínez,True,1974-09-16,51,0.035
+Gabriela,González Cruz,Mèxic,Ciutat de Mèxic,20,2,1985,,1638.405,No,1.0,Grup B,Gabriela González Cruz,False,1985-02-20,41,0.035
+Laia,Castells,Espanya,Bilbao,23,4,1998,Mujer,1850.58,Sí,,Grup B,Laia Castells,True,1998-04-23,27,0.035
+Clara,López,Espanya,Madrid,12,5,1989,Mujer,1449.0,No,1.0,Grup B,Clara López,True,1989-05-12,36,0.035
+Laia,Sánchez,Espanya,Bilbao,19,5,1970,Otros,2056.5449999999996,Sí,,Grup B,Laia Sánchez,True,1970-05-19,55,0.035
+João,Silva,Portugal,Porto,23,10,1970,Hombre,2053.44,Sí,,Grup B,João Silva,False,1970-10-23,55,0.035
+Antoine,Lefevre Girard,França,Marsella,22,12,1981,Hombre,1676.6999999999998,Sí,,Grup B,Antoine Lefevre Girard,False,1981-12-22,44,0.035
+Michel,Moreau,França,Marsella,27,6,1978,Hombre,2157.975,Sí,,Grup B,Michel Moreau,False,1978-06-27,47,0.035
+Joan,López,Espanya,València,15,10,1982,Hombre,2370.1499999999996,No,1.0,Grup B,Joan López,True,1982-10-15,43,0.035
+Marta,López López,Espanya,Sevilla,24,2,1986,Mujer,1337.2199999999998,No,1.0,Grup B,Marta López López,True,1986-02-24,40,0.035
+Laia,López López,Espanya,València,8,5,1962,Mujer,1281.33,Sí,,Grup B,Laia López López,True,1962-05-08,63,0.035
+Pau,López Martínez,Espanya,Sevilla,17,12,1958,Hombre,1458.3149999999998,No,1.0,Grup B,Pau López Martínez,True,1958-12-17,67,0.035
+Eva,López Ferrer,Espanya,Bilbao,24,12,1952,Mujer,2086.56,No,1.0,Grup B,Eva López Ferrer,True,1952-12-24,73,0.035
+Clara,García Ferrer,Espanya,Barcelona,10,10,1956,Mujer,2055.5099999999998,No,1.0,Grup B,Clara García Ferrer,True,1956-10-10,69,0.035
+Núria,López,Espanya,Sevilla,14,4,1969,Mujer,1848.5099999999998,No,1.0,Grup B,Núria López,True,1969-04-14,56,0.035
+Clara,Martínez Romero,Espanya,València,1,10,1975,Mujer,2047.2299999999998,Sí,,Grup B,Clara Martínez Romero,True,1975-10-01,50,0.035
+Camille,Moreau Moreau,França,Lió,16,7,1993,Mujer,2030.6699999999998,No,1.0,Grup B,Camille Moreau Moreau,False,1993-07-16,32,0.035
+William,Smith Smith,Regne Unit,Londres,1,12,1952,Hombre,1700.5049999999999,Sí,,Grup B,William Smith Smith,False,1952-12-01,73,0.035
+Arnau,Romero,Espanya,Bilbao,18,11,1967,Hombre,1755.36,No,1.0,Grup B,Arnau Romero,True,1967-11-18,58,0.035
+Jordi,Martínez Ferrer,Espanya,València,17,6,1950,Hombre,2360.835,Sí,,Grup B,Jordi Martínez Ferrer,True,1950-06-17,75,0.035
+Laia,Martínez,Espanya,Madrid,9,9,1977,Mujer,2124.855,No,1.0,Grup B,Laia Martínez,True,1977-09-09,48,0.035
+Oriol,Sánchez,Espanya,Sevilla,1,4,1969,Hombre,1472.8049999999998,No,1.0,Grup B,Oriol Sánchez,True,1969-04-01,56,0.035
+Laia,Sánchez Sánchez,Espanya,València,25,9,1995,,1403.4599999999998,No,1.0,Grup B,Laia Sánchez Sánchez,True,1995-09-25,30,0.035
+Daniela,Castro,Colòmbia,Bogotà,9,3,1980,Mujer,1728.4499999999998,Sí,,Grup B,Daniela Castro,False,1980-03-09,45,0.035
+Toni,Castells,Espanya,Bilbao,25,7,1966,Hombre,2206.62,No,1.0,Grup B,Toni Castells,True,1966-07-25,59,0.035
+Rui,Oliveira Silva,Portugal,Lisboa,25,8,1992,Hombre,1727.415,No,1.0,Grup B,Rui Oliveira Silva,False,1992-08-25,33,0.035
+Marta,Romero Romero,Espanya,Sevilla,24,9,1991,Mujer,1687.05,No,1.0,Grup B,Marta Romero Romero,True,1991-09-24,34,0.035
+Anna,Ferrer,Espanya,Barcelona,25,11,1967,Mujer,1457.28,No,1.0,Grup B,Anna Ferrer,True,1967-11-25,58,0.035
+Chloé,Moreau,França,Lió,21,2,1989,Mujer,1491.435,No,1.0,Grup B,Chloé Moreau,False,1989-02-21,37,0.035
+Joan,Sánchez,Espanya,Bilbao,13,12,1974,Otros,1880.5949999999998,No,1.0,Grup B,Joan Sánchez,True,1974-12-13,51,0.035
+Joan,Sánchez Sánchez,Espanya,Madrid,28,7,2005,,1482.12,No,1.0,Grup B,Joan Sánchez Sánchez,True,2005-07-28,20,0.035
+Pau,García López,Espanya,Sevilla,22,8,1996,Hombre,1395.1799999999998,Sí,,Grup B,Pau García López,True,1996-08-22,29,0.035
+Arnau,García Ferrer,Espanya,València,20,1,1951,Hombre,2116.575,No,1.0,Grup B,Arnau García Ferrer,True,1951-01-20,75,0.035
+Marta,López,Espanya,Barcelona,4,6,2002,Mujer,1210.9499999999998,Sí,,Grup B,Marta López,True,2002-06-04,23,0.035
+Anna,López Sánchez,Espanya,Barcelona,19,9,1963,Mujer,1494.54,Sí,,Grup B,Anna López Sánchez,True,1963-09-19,62,0.035
+Marc,Romero,Espanya,Barcelona,16,8,1986,Hombre,1721.205,No,1.0,Grup B,Marc Romero,True,1986-08-16,39,0.035
+Pau,Ferrer Ferrer,Espanya,València,9,11,1991,Hombre,1444.86,Sí,,Grup B,Pau Ferrer Ferrer,True,1991-11-09,34,0.035
+Alessia,Russo Russo,Itàlia,Roma,14,2,1983,Mujer,1405.53,No,1.0,Grup B,Alessia Russo Russo,False,1983-02-14,43,0.035
+Núria,Sánchez García,Espanya,Madrid,14,1,1966,Mujer,2027.5649999999998,Sí,,Grup B,Núria Sánchez García,True,1966-01-14,60,0.035
+Michel,Moreau,França,Lió,12,12,1992,Hombre,2072.0699999999997,Sí,,Grup B,Michel Moreau,False,1992-12-12,33,0.035
+Jordi,García,Espanya,Bilbao,11,1,1970,Hombre,1757.4299999999998,Sí,,Grup B,Jordi García,True,1970-01-11,56,0.035
+Joan,López Castells,Espanya,Barcelona,1,4,1984,,1609.425,Sí,,Grup B,Joan López Castells,True,1984-04-01,41,0.035
+Laia,Romero,Espanya,Sevilla,16,11,1962,Mujer,1253.385,Sí,,Grup B,Laia Romero,True,1962-11-16,63,0.035
+Marta,Romero,Espanya,Bilbao,25,7,1973,Mujer,1887.84,No,1.0,Grup B,Marta Romero,True,1973-07-25,52,0.035
+Eva,Sánchez,Espanya,València,18,2,1971,Mujer,2160.0449999999996,No,1.0,Grup B,Eva Sánchez,True,1971-02-18,55,0.035
+Núria,Romero López,Espanya,Bilbao,15,6,1999,,1693.2599999999998,Sí,,Grup B,Núria Romero López,True,1999-06-15,26,0.035
+Toni,Sánchez,Espanya,Bilbao,26,9,1992,Hombre,1405.53,No,1.0,Grup B,Toni Sánchez,True,1992-09-26,33,0.035
+Jordi,Romero,Espanya,Barcelona,12,12,1950,Hombre,2331.855,Sí,,Grup B,Jordi Romero,True,1950-12-12,75,0.035
+Marc,Martínez,Espanya,Bilbao,7,7,1988,Hombre,2033.7749999999999,No,1.0,Grup B,Marc Martínez,True,1988-07-07,37,0.035
+Pau,Ferrer,Espanya,Madrid,24,11,1997,Hombre,2300.805,No,1.0,Grup B,Pau Ferrer,True,1997-11-24,28,0.035
+Arnau,Ferrer,Espanya,Bilbao,20,5,1961,Hombre,1392.0749999999998,No,1.0,Grup B,Arnau Ferrer,True,1961-05-20,64,0.035
+Oriol,Martínez López,Espanya,Barcelona,24,6,1980,Hombre,2136.24,No,1.0,Grup B,Oriol Martínez López,True,1980-06-24,45,0.035
+Oriol,Martínez,Espanya,València,21,12,1986,Hombre,1826.7749999999999,No,1.0,Grup B,Oriol Martínez,True,1986-12-21,39,0.035
+Joan,García,Espanya,Sevilla,23,3,2003,,1651.86,Sí,,Grup B,Joan García,True,2003-03-23,22,0.035
+Pau,Martínez Romero,Espanya,Barcelona,26,7,1986,Hombre,1799.8649999999998,No,1.0,Grup B,Pau Martínez Romero,True,1986-07-26,39,0.035
+Arnau,García Ferrer,Espanya,Barcelona,1,6,1979,Hombre,1776.06,Sí,,Grup B,Arnau García Ferrer,True,1979-06-01,46,0.035
+Toni,Martínez,Espanya,Bilbao,25,12,1974,Hombre,1398.2849999999999,No,1.0,Grup B,Toni Martínez,True,1974-12-25,51,0.035
+Giulia,Russo,Itàlia,Torí,14,6,2005,Mujer,1447.965,Sí,,Grup B,Giulia Russo,False,2005-06-14,20,0.035
+Oriol,Sánchez,Espanya,Bilbao,11,9,1989,Hombre,2189.0249999999996,Sí,,Grup B,Oriol Sánchez,True,1989-09-11,36,0.035
+Carla,López Martínez,Espanya,Madrid,14,10,1962,Otros,1603.215,No,1.0,Grup B,Carla López Martínez,True,1962-10-14,63,0.035
+Anna,Ferrer Sánchez,Espanya,Barcelona,25,8,1965,,1487.2949999999998,Sí,,Grup B,Anna Ferrer Sánchez,True,1965-08-25,60,0.035
+Núria,García Ferrer,Espanya,Bilbao,11,4,1982,Mujer,1819.53,Sí,,Grup B,Núria García Ferrer,True,1982-04-11,43,0.035
+Joan,Romero García,Espanya,València,4,3,1956,Hombre,2293.56,No,1.0,Grup B,Joan Romero García,True,1956-03-04,69,0.035
+Oriol,Ferrer,Espanya,Madrid,2,4,1974,Hombre,1370.34,Sí,,Grup B,Oriol Ferrer,True,1974-04-02,51,0.035
+Sophie,Taylor Smith,Regne Unit,Londres,26,12,2005,Mujer,1721.205,No,1.0,Grup B,Sophie Taylor Smith,False,2005-12-26,20,0.035
+Joan,López,Espanya,València,28,3,1995,Hombre,2227.3199999999997,No,1.0,Grup B,Joan López,True,1995-03-28,30,0.035
+Valentina,Torres Rojas,Colòmbia,Medellín,22,10,1957,Mujer,1491.435,No,1.0,Grup B,Valentina Torres Rojas,False,1957-10-22,68,0.035
+Anna,García,Espanya,València,22,11,1976,Mujer,1605.2849999999999,Sí,,Grup B,Anna García,True,1976-11-22,49,0.035
+Anna,López López,Espanya,València,7,7,1988,Mujer,1375.5149999999999,Sí,,Grup B,Anna López López,True,1988-07-07,37,0.035
+Pau,Ferrer García,Espanya,Barcelona,21,6,1990,Hombre,1510.0649999999998,Sí,,Grup B,Pau Ferrer García,True,1990-06-21,35,0.035
+Florencia,Fernández,Argentina,Còrdova,14,10,1979,Mujer,1251.3149999999998,No,1.0,Grup B,Florencia Fernández,False,1979-10-14,46,0.035
+Carlos,Ramírez,Mèxic,Guadalajara,21,3,1959,Hombre,1516.2749999999999,Sí,,Grup B,Carlos Ramírez,False,1959-03-21,66,0.035
+Anna,García,Espanya,Barcelona,22,12,1999,Mujer,1553.5349999999999,No,1.0,Grup B,Anna García,True,1999-12-22,26,0.035
+Toni,Romero Romero,Espanya,Madrid,15,2,1984,Otros,1819.53,Sí,,Grup B,Toni Romero Romero,True,1984-02-15,42,0.035
+Salma,Zahraoui,Marroc,Casablanca,18,4,1999,Mujer,1213.02,No,1.0,Grup B,Salma Zahraoui,False,1999-04-18,26,0.035
+Eva,Martínez López,Espanya,Barcelona,11,4,1958,Mujer,1397.25,No,1.0,Grup B,Eva Martínez López,True,1958-04-11,67,0.035
+Rui,Silva Silva,Portugal,Lisboa,6,5,1958,Hombre,1311.3449999999998,No,1.0,Grup B,Rui Silva Silva,False,1958-05-06,67,0.035
+Carla,Romero,Espanya,Madrid,18,3,1964,Mujer,1736.7299999999998,Sí,,Grup B,Carla Romero,True,1964-03-18,61,0.035
+Laia,Ferrer,Espanya,Barcelona,2,2,1953,Mujer,1441.7549999999999,Sí,,Grup B,Laia Ferrer,True,1953-02-02,73,0.035
+Toni,Romero,Espanya,Barcelona,23,8,2001,Hombre,2263.5449999999996,No,1.0,Grup B,Toni Romero,True,2001-08-23,24,0.035
+Marta,López,Espanya,Madrid,13,3,1999,Mujer,1227.51,No,1.0,Grup B,Marta López,True,1999-03-13,26,0.035
+Carla,Ferrer Martínez,Espanya,València,3,5,1992,Mujer,1773.9899999999998,No,1.0,Grup B,Carla Ferrer Martínez,True,1992-05-03,33,0.035
+Toni,Sánchez,Espanya,Madrid,13,3,1976,,1777.0949999999998,Sí,,Grup B,Toni Sánchez,True,1976-03-13,49,0.035
+Marta,Ferrer Ferrer,Espanya,Sevilla,1,6,1951,Mujer,1258.56,No,1.0,Grup B,Marta Ferrer Ferrer,True,1951-06-01,74,0.035
