@@ -1,0 +1,101 @@
+Num postal caption,Número de vehicles implicats,Nom barri,Coordenada UTM (Y),Número de lesionats greus,Número de lesionats lleus,Nom districte,Descripció tipus dia,NK barri,NK Any,Nom mes,Descripció torn,Nom carrer,Número de morts,Codi carrer,Número d'expedient,Descripció dia setmana,Número de víctimes,Coordenada UTM (X),Mes de any,Dia de setmana,Codi districte,Dia de mes,_id,Hora de dia,Descripció causa vianant
+Desconegut,2,Desconegut,-1,0,1,Desconegut,Laboral,-1--1--1,2011,Gener,Tarda,Desconegut,0,-1,2011S000232,Dijous,1,-1,1,4,-1,13,1,15,Desconegut
+Desconegut,1,Desconegut,-1,0,1,Desconegut,Laboral,-1--1--1,2011,Febrer,Matí,Desconegut,0,-1,2011S000692,Dimecres,1,-1,2,3,-1,2,2,11,Desobeir el senyal del semŕfor
+0189 0189,2,el Camp de l'Arpa del Clot,"4585070,71",0,1,Sant Martí,Laboral,101-10-64,2011,Octubre,Tarda,Meridiana,0,209900,2011S007125,Divendres,1,"432021,86",10,5,10,21,3,16,Desconegut
+0201 0201,2,el Camp de l'Arpa del Clot,"4585164,43",0,1,Sant Martí,Laboral,101-10-64,2011,Novembre,Tarda,Meridiana,0,209900,2011S007688,Dilluns,1,"432022,53",11,1,10,14,4,19,Desconegut
+0275 0277,2,el Camp de l'Arpa del Clot,"4585097,87",0,1,Sant Martí,Laboral,101-10-64,2011,Gener,Matí,Indústria,0,161407,2011S000334,Dimarts,1,"431520,25",1,2,10,18,5,12,Desconegut
+0044 0046,2,el Camp de l'Arpa del Clot,"4585201,16",0,1,Sant Martí,Laboral,101-10-64,2011,Novembre,Matí,Maragall,0,194406,2011S007926,Dijous,1,"431537,33",11,4,10,24,6,9,Desconegut
+0697 0699,2,el Camp de l'Arpa del Clot,"4584871,61",0,1,Sant Martí,Laboral,101-10-64,2011,Febrer,Matí,Cňrsega,0,90502,2011S001385,Dilluns,1,"431493,55",2,1,10,28,7,9,Desconegut
+0575 0575,2,el Camp de l'Arpa del Clot,"4584593,09",0,2,Sant Martí,Laboral,101-10-64,2011,Abril,Tarda,Provença,0,268003,2011S002330,Dilluns,2,"431616,77",4,1,10,4,8,21,Desconegut
+9999 9999,1,el Camp de l'Arpa del Clot,"4584593,54",0,1,Sant Martí,Laboral,101-10-64,2011,Gener,Tarda,Heroďnes de Girona,0,700018,2011S000043,Dilluns,1,"431423,24",1,1,10,3,9,20,Altres
+0548 0548,2,el Camp de l'Arpa del Clot,"4584468,38",0,1,Sant Martí,Laboral,101-10-64,2011,Juliol,Tarda,Mallorca,0,191204,2011S004869,Divendres,1,"431696,44",7,5,10,15,10,19,Desconegut
+0556 0556,2,el Camp de l'Arpa del Clot,"4584509,37",0,1,Sant Martí,Laboral,101-10-64,2011,Juliol,Matí,Mallorca,0,191204,2011S004602,Dimecres,1,"431738,90",7,3,10,6,11,8,Desconegut
+0321 0321,2,el Camp de l'Arpa del Clot,"4584508,07",0,1,Sant Martí,Laboral,101-10-64,2011,Juliol,Tarda,Independčncia,0,161101,2011S004641,Dijous,1,"431573,78",7,4,10,7,12,16,Desconegut
+0001 0001,2,el Camp de l'Arpa del Clot,"4584433,32",0,1,Sant Martí,Laboral,101-10-64,2011,Octubre,Tarda,Rogent,0,286300,2011S006967,Dissabte,1,"432003,67",10,6,10,15,13,20,Desconegut
+0058 0058,2,la Verneda i la Pau,"4586683,16",0,0,Sant Martí,Laboral,102-10-73,2011,Maig,Nit,Santander,0,318906,2011S003627,Dissabte,0,"433467,85",5,6,10,28,28,0,Desconegut
+0134 0134,2,el Camp de l'Arpa del Clot,"4584960,32",0,2,Sant Martí,Laboral,101-10-64,2011,Març,Tarda,Freser,0,134801,2011S001877,Dissabte,2,"431583,65",3,6,10,19,14,21,Desconegut
+0231 0231,2,Sant Martí de Provençals,"4585340,39",0,1,Sant Martí,Laboral,102-10-72,2011,Març,Nit,Selva de Mar,0,322608,2011S002073,Dissabte,1,"433002,19",3,6,10,26,15,0,Desconegut
+0041 0041,2,Sant Martí de Provençals,"4585178,69",0,1,Sant Martí,Laboral,102-10-72,2011,Juliol,Tarda,Guipúscoa,0,153205,2011S005188,Divendres,1,"432758,53",7,5,10,29,16,18,Desconegut
+0006 0006,1,Sant Martí de Provençals,"4585382,46",0,1,Sant Martí,Laboral,102-10-72,2011,Juliol,Tarda,Menorca,0,208205,2011S004647,Dijous,1,"432633,10",7,4,10,7,17,17,Desconegut
+0255 0255,2,Sant Martí de Provençals,"4585474,52",0,2,Sant Martí,Laboral,102-10-72,2011,Març,Nit,Selva de Mar,0,322608,2011S002125,Dilluns,2,"432867,27",3,1,10,28,18,22,Desconegut
+0132 0132,2,Sant Martí de Provençals,"4585159,49",0,1,Sant Martí,Laboral,102-10-72,2011,Desembre,Tarda,Andrade,0,15201,2011S008231,Dimarts,1,"433166,94",12,2,10,6,19,20,Desconegut
+0035 0035,1,el Clot,"4584281,77",0,0,Sant Martí,Laboral,101-10-65,2011,Febrer,Tarda,Clot,0,81603,2011S000763,Divendres,0,"432115,16",2,5,10,4,20,17,Desconegut
+1025 1027,2,Sant Martí de Provençals,"4585025,16",0,1,Sant Martí,Laboral,102-10-72,2011,Juny,Tarda,Corts Catalanes,0,169409,2011S004089,Dimecres,1,"433153,64",6,3,10,15,21,15,Desconegut
+0103 0103,1,el Clot,"4584319,18",0,1,Sant Martí,Laboral,101-10-65,2011,Octubre,Nit,Meridiana,0,209900,2011S007033,Dimarts,1,"432011,39",10,2,10,18,22,22,Altres
+0643 0645,4,el Clot,"4584746,84",0,1,Sant Martí,Laboral,101-10-65,2011,Juny,Matí,Aragó,0,18505,2011S003837,Diumenge,1,"432317,11",6,7,10,5,23,7,Desconegut
+0241 0241,2,el Clot,"4584767,38",0,2,Sant Martí,Laboral,101-10-65,2011,Maig,Nit,Bilbao,0,42306,2011S003524,Dimarts,2,"432433,25",5,2,10,24,24,22,Desconegut
+0599 0599,2,el Camp de l'Arpa del Clot,"4584768,61",0,1,Sant Martí,Laboral,101-10-64,2011,Novembre,Matí,Mallorca,0,191204,2011S007655,Diumenge,1,"431970,74",11,7,10,13,25,13,Desconegut
+0192 0194,2,la Verneda i la Pau,"4585931,79",0,2,Sant Martí,Laboral,102-10-73,2011,Setembre,Matí,Prim,0,266405,2011S005863,Dimarts,2,"433603,70",9,2,10,6,26,6,Desconegut
+0159 0159,1,la Verneda i la Pau,"4585888,56",0,1,Sant Martí,Laboral,102-10-73,2011,Maig,Nit,Prim,0,266405,2011S003456,Dissabte,1,"433559,58",5,6,10,21,27,23,Desobeir el senyal del semŕfor
+0102I0102I,1,Sant Martí de Provençals,"4585592,84",0,0,Sant Martí,Laboral,102-10-72,2011,Octubre,Matí,Guipúscoa,1,153205,2011S006619,Dilluns,1,"433241,97",10,1,10,3,29,11,Creuar per fora pas de vianants
+0008 0008,1,el Besňs i el Maresme,"4584712,22",0,3,Sant Martí,Laboral,103-10-70,2011,Juny,Tarda,Diagonal,0,144601,2011S003817,Dissabte,3,"434612,05",6,6,10,4,30,15,Desobeir el senyal del semŕfor
+0107 0107,1,Provençals del Poblenou,"4584912,67",0,1,Sant Martí,Laboral,103-10-71,2011,Agost,Nit,Josep Pla,0,143609,2011S005729,Dimarts,1,"433973,86",8,2,10,30,31,23,Desconegut
+9999 9999,1,el Poblenou,"4582903,53",0,1,Sant Martí,Laboral,104-10-68,2011,Octubre,Nit,Poblenou,0,700755,2011S006637,Dimarts,1,"433491,70",10,2,10,4,32,4,Desconegut
+0097 0097,2,el Poblenou,"4582749,28",0,1,Sant Martí,Laboral,104-10-68,2011,Desembre,Tarda,Salvador Espriu,0,700662,2011S008535,Dilluns,1,"433386,70",12,1,10,19,33,14,Desconegut
+0061 0061,1,el Poblenou,"4583562,75",0,2,Sant Martí,Laboral,104-10-68,2011,Juliol,Nit,Llacuna,0,183603,2011S005110,Dimecres,2,"433054,03",7,3,10,27,34,3,Transitar a peu per la calçada
+0194 0194,3,Provençals del Poblenou,"4584622,85",0,1,Sant Martí,Laboral,103-10-71,2011,Agost,Matí,Espronceda,0,115603,2011S005713,Dimarts,1,"432983,65",8,2,10,30,35,6,Desconegut
+020750000,2,Provençals del Poblenou,"4585044,97",0,0,Sant Martí,Laboral,103-10-71,2011,Agost,Tarda,C-31,0,701414,2011S005524,Dimarts,0,"433272,71",8,2,10,16,36,17,Desconegut
+0042 0042,2,Provençals del Poblenou,"4585416,41",0,1,Sant Martí,Laboral,103-10-71,2011,Setembre,Nit,Paraguai,0,244800,2011S006127,Divendres,1,"433856,63",9,5,10,16,37,5,Desconegut
+020710000,2,Provençals del Poblenou,"4584767,14",0,1,Sant Martí,Laboral,103-10-71,2011,Desembre,Matí,C-31,0,701414,2011S008303,Dissabte,1,"432988,19",12,6,10,10,38,12,Desconegut
+020640000,2,Provençals del Poblenou,"4584277,37",0,1,Sant Martí,Laboral,103-10-71,2011,Octubre,Matí,C-31,0,701414,2011S007279,Divendres,1,"432482,54",10,5,10,28,39,9,Desconegut
+0030 0038,2,Provençals del Poblenou,"4584158,15",0,0,Sant Martí,Laboral,103-10-71,2011,Octubre,Tarda,Castella,0,73707,2011S006994,Dilluns,0,"432882,37",10,1,10,17,40,15,Desconegut
+0161X0161X,3,Provençals del Poblenou,"4584348,26",0,1,Sant Martí,Laboral,103-10-71,2011,Octubre,Tarda,Espronceda,0,115603,2011S007093,Dijous,1,"433231,95",10,4,10,20,41,20,Desconegut
+0288X0288X,1,Provençals del Poblenou,"4584228,35",0,1,Sant Martí,Laboral,103-10-71,2011,Abril,Tarda,Pere IV,0,249304,2011S002574,Dimecres,1,"433215,45",4,3,10,13,42,19,Desobeir el senyal del semŕfor
+0072U0072U,2,Diagonal Mar i el Front Marítim del Poblenou,"4584171,23",0,1,Sant Martí,Laboral,104-10-69,2011,Juliol,Matí,Bac de Roda,0,30409,2011S005172,Divendres,1,"433614,91",7,5,10,29,43,13,Desconegut
+0098X0098X,2,Diagonal Mar i el Front Marítim del Poblenou,"4584310,62",0,1,Sant Martí,Laboral,104-10-69,2011,Abril,Tarda,Bac de Roda,0,30409,2011S002530,Dimarts,1,"433477,86",4,2,10,12,44,18,Desconegut
+0113 0113,1,el Poblenou,"4583820,41",0,0,Sant Martí,Laboral,104-10-68,2011,Abril,Matí,Poblenou,0,346800,2011S002484,Dilluns,0,"432992,83",4,1,10,11,45,11,Desconegut
+0137 0137,2,el Poblenou,"4584141,97",0,1,Sant Martí,Laboral,104-10-68,2011,Febrer,Tarda,Diagonal,0,144601,2011S001225,Dilluns,1,"433033,58",2,1,10,21,46,18,Desconegut
+0025 0025,1,el Parc i la Llacuna del Poblenou,"4582469,42",0,2,Sant Martí,Laboral,105-10-66,2011,Agost,Tarda,Pujades,0,271100,2011S005725,Dimarts,2,"431917,45",8,2,10,30,47,20,Desconegut
+0114 0116,2,el Parc i la Llacuna del Poblenou,"4582910,42",0,1,Sant Martí,Laboral,105-10-66,2011,Març,Tarda,Marina,0,197302,2011S002108,Dilluns,1,"432063,23",3,1,10,28,48,14,Desconegut
+0001X0001X,2,Diagonal Mar i el Front Marítim del Poblenou,"4583663,86",0,2,Sant Martí,Laboral,104-10-69,2011,Juliol,Nit,Bac de Roda,0,30409,2011S004895,Diumenge,2,"434068,68",7,7,10,17,49,3,Desconegut
+0002 0020,2,Diagonal Mar i el Front Marítim del Poblenou,"4584271,90",0,1,Sant Martí,Laboral,104-10-69,2011,Agost,Tarda,Josep Pla,0,143609,2011S005523,Dimarts,1,"434642,40",8,2,10,16,50,19,Desconegut
+0115 0115,4,el Parc i la Llacuna del Poblenou,"4583496,91",0,1,Sant Martí,Laboral,105-10-66,2011,Novembre,Tarda,Pere IV,0,249304,2011S007970,Divendres,1,"432745,27",11,5,10,25,51,21,Desconegut
+0001 0001,2,Diagonal Mar i el Front Marítim del Poblenou,"4583440,55",0,1,Sant Martí,Laboral,104-10-69,2011,Febrer,Matí,Garcia Fŕria,0,700892,2011S000693,Dimecres,1,"433833,56",2,3,10,2,52,11,Desconegut
+0152 0152,2,el Parc i la Llacuna del Poblenou,"4583747,86",0,1,Sant Martí,Laboral,105-10-66,2011,Gener,Tarda,Sancho de Ávila,0,311703,2011S000156,Dilluns,1,"432727,61",1,1,10,10,53,14,Desconegut
+0056 0056,1,Sant Andreu,"4586802,03",0,1,Sant Andreu,Laboral,92-9-60,2011,Juliol,Matí,Afores,0,2709,2011S004725,Dilluns,1,"432375,11",7,1,9,11,4935,12,Desconegut
+0203 0203,2,el Parc i la Llacuna del Poblenou,"4583915,98",0,1,Sant Martí,Laboral,105-10-66,2011,Abril,Matí,Diagonal,0,144601,2011S002826,Dimecres,1,"432332,60",4,3,10,27,54,9,Desconegut
+000640000,2,Diagonal Mar i el Front Marítim del Poblenou,"4583845,40",0,2,Sant Martí,Laboral,104-10-69,2011,Juliol,Tarda,Litoral (Llobregat),0,701266,2011S005199,Dissabte,2,"434350,18",7,6,10,30,55,18,Desconegut
+0160X0160X,2,el Parc i la Llacuna del Poblenou,"4583660,50",0,1,Sant Martí,Laboral,105-10-66,2011,Maig,Tarda,Ŕlaba,0,4908,2011S003681,Dilluns,1,"432060,00",5,1,10,30,56,15,Desconegut
+0060X0060X,1,el Raval,"4580736,85",0,0,Ciutat Vella,Laboral,11-1-1,2011,Març,Matí,Paralˇlel,0,198804,2011S001719,Dilluns,0,"430584,66",3,1,1,14,57,7,Desconegut
+001110000,2,el Raval,"4580504,66",0,2,Ciutat Vella,Laboral,11-1-1,2011,Novembre,Nit,Litoral (Besňs),0,701265,2011S007360,Dimarts,2,"431171,19",11,2,1,1,58,23,Desconegut
+001110000,2,el Raval,"4580517,07",0,2,Ciutat Vella,Laboral,11-1-1,2011,Maig,Matí,Litoral (Llobregat),0,701266,2011S003025,Dijous,2,"431152,05",5,4,1,5,59,12,Desconegut
+0001 0001,1,el Raval,"4580688,12",0,1,Ciutat Vella,Laboral,11-1-1,2011,Maig,Nit,Drassanes,0,701349,2011S003251,Dissabte,1,"431120,36",5,6,1,14,60,5,Desconegut
+0001 0001,2,el Raval,"4580688,12",0,1,Ciutat Vella,Laboral,11-1-1,2011,Abril,Tarda,Drassanes,0,701349,2011S002561,Dimecres,1,"431120,36",4,3,1,13,61,16,Desconegut
+0001 0001,1,el Raval,"4580688,12",0,1,Ciutat Vella,Laboral,11-1-1,2011,Maig,Matí,Drassanes,0,701349,2011S003252,Dissabte,1,"431120,36",5,6,1,14,62,6,Desconegut
+0104 0108,1,el Raval,"4581245,95",0,1,Ciutat Vella,Laboral,11-1-1,2011,Maig,Matí,Hospital,0,157909,2011S003608,Divendres,1,"430411,38",5,5,1,27,63,13,Creuar per fora pas de vianants
+0020 0020,2,el Raval,"4581033,27",0,1,Ciutat Vella,Laboral,11-1-1,2011,Juliol,Matí,Marqučs de Barberŕ,0,198258,2011S004601,Dimecres,1,"430729,32",7,3,1,6,64,8,Desconegut
+0025 0025,1,el Raval,"4581185,66",0,1,Ciutat Vella,Laboral,11-1-1,2011,Agost,Tarda,Sant Antoni Abat,0,296600,2011S005705,Dilluns,1,"430180,77",8,1,1,29,65,17,Creuar per fora pas de vianants
+000850000,4,la Vila Olímpica del Poblenou,"4582282,61",0,1,Sant Martí,Laboral,105-10-67,2011,Gener,Matí,Litoral (Llobregat),0,701266,2011S000501,Dimarts,1,"432948,69",1,2,10,25,66,9,Desconegut
+9996 9996,2,la Dreta de l'Eixample,"4582967,71",0,1,Eixample,Laboral,24-2-7,2011,Febrer,Tarda,Diagonal,0,144601,2011S001274,Dimecres,1,"429368,70",2,3,2,23,202,19,Desconegut
+0044 0044,2,la Vila Olímpica del Poblenou,"4582507,80",0,1,Sant Martí,Laboral,105-10-67,2011,Novembre,Matí,Marina,0,197302,2011S007376,Dimecres,1,"432447,95",11,3,10,2,67,9,Desconegut
+0014 0014,1,la Vila Olímpica del Poblenou,"4582084,63",0,1,Sant Martí,Laboral,105-10-67,2011,Desembre,Tarda,Ramon Trias Fargas,0,132908,2011S008123,Dijous,1,"432662,17",12,4,10,1,68,19,Creuar per fora pas de vianants
+0021 0021,2,la Vila Olímpica del Poblenou,"4582273,62",0,0,Sant Martí,Laboral,105-10-67,2011,Agost,Tarda,Ramon Trias Fargas,0,132908,2011S005245,Dilluns,0,"432444,59",8,1,10,1,69,17,Desconegut
+0017 0017,2,la Vila Olímpica del Poblenou,"4582540,58",0,1,Sant Martí,Laboral,105-10-67,2011,Gener,Tarda,Rosa Sensat,0,700663,2011S000656,Dilluns,1,"432735,86",1,1,10,31,70,21,Desconegut
+0024 0024,1,la Vila Olímpica del Poblenou,"4582287,45",0,2,Sant Martí,Laboral,105-10-67,2011,Juny,Tarda,Ramon Trias Fargas,0,132908,2011S003848,Diumenge,2,"432459,89",6,7,10,5,71,18,Desconegut
+0012 0012,1,el Barri Gňtic,"4581014,57",0,1,Ciutat Vella,Laboral,12-1-2,2011,Abril,Nit,Rambla,0,34308,2011S002396,Divendres,1,"431131,86",4,5,1,8,72,3,Creuar per fora pas de vianants
+9998 9998,2,el Barri Gňtic,"4580793,18",0,1,Ciutat Vella,Laboral,12-1-2,2011,Octubre,Matí,Portal de la Pau,0,269108,2011S007211,Dimarts,1,"431243,02",10,2,1,25,73,10,Desconegut
+9998 9998,3,el Barri Gňtic,"4580793,18",0,1,Ciutat Vella,Laboral,12-1-2,2011,Agost,Tarda,Portal de la Pau,0,269108,2011S005454,Divendres,1,"431243,02",8,5,1,12,74,16,Desconegut
+0044 0044,1,el Barri Gňtic,"4581221,77",0,1,Ciutat Vella,Laboral,12-1-2,2011,Desembre,Tarda,Rambla,0,34308,2011S008848,Dissabte,1,"431007,67",12,6,1,31,75,17,Creuar per fora pas de vianants
+0056 0056,2,el Barri Gňtic,"4581286,22",0,1,Ciutat Vella,Laboral,12-1-2,2011,Desembre,Tarda,Rambla,0,34308,2011S008830,Divendres,1,"430967,79",12,5,1,30,76,20,Desconegut
+0005 0005,1,el Barri Gňtic,"4581531,95",0,0,Ciutat Vella,Laboral,12-1-2,2011,Juny,Matí,Ciutat,0,80000,2011S004126,Dijous,0,"431254,17",6,4,1,16,77,12,Desconegut
+001080000,3,el Barri Gňtic,"4580775,68",0,1,Ciutat Vella,Laboral,12-1-2,2011,Novembre,Tarda,Litoral (Besňs),0,701265,2011S007543,Dimecres,1,"431300,53",11,3,1,9,78,18,Desconegut
+0062 0062,1,el Barri Gňtic,"4581319,16",0,0,Ciutat Vella,Laboral,12-1-2,2011,Novembre,Matí,Rambla,0,34308,2011S007475,Dilluns,0,"430946,91",11,1,1,7,79,10,Desconegut
+0019 0019,1,el Barri Gňtic,"4581661,10",0,0,Ciutat Vella,Laboral,12-1-2,2011,Febrer,Tarda,Laietana,0,177101,2011S001173,Dissabte,0,"431362,36",2,6,1,19,80,17,Desconegut
+0012 0012,1,el Barri Gňtic,"4581248,92",0,1,Ciutat Vella,Laboral,12-1-2,2011,Juliol,Matí,Colom,0,82901,2011S005129,Dimecres,1,"431482,05",7,3,1,27,81,13,Desconegut
+0013 0013,2,el Barri Gňtic,"4581237,52",0,1,Ciutat Vella,Laboral,12-1-2,2011,Març,Matí,Colom,0,82901,2011S001594,Dimecres,1,"431475,31",3,3,1,9,82,9,Desconegut
+0002 0002,1,el Raval,"4581461,15",0,1,Ciutat Vella,Laboral,11-1-1,2011,Abril,Matí,Ŕngels,0,16408,2011S002821,Dimecres,1,"430514,05",4,3,1,27,83,13,Creuar per fora pas de vianants
+0087 0087,2,el Raval,"4581474,91",0,1,Ciutat Vella,Laboral,11-1-1,2011,Setembre,Matí,Rambla,0,34308,2011S005762,Dijous,1,"430803,01",9,4,1,1,84,13,Desconegut
+0019 0019,2,el Barri Gňtic,"4581680,12",0,1,Ciutat Vella,Laboral,12-1-2,2011,Gener,Tarda,Jaume I,0,164802,2011S000179,Dimarts,1,"431299,76",1,2,1,11,85,14,Desconegut
+0009 0009,1,el Raval,"4581783,25",0,1,Ciutat Vella,Laboral,11-1-1,2011,Setembre,Tarda,Valldonzella,0,352100,2011S006463,Dimarts,1,"430301,40",9,2,1,27,86,19,Desconegut
+9999 9999,2,la Barceloneta,"4581232,79",0,1,Ciutat Vella,Laboral,13-1-3,2011,Octubre,Matí,Barceloneta,0,199308,2011S007215,Dimarts,1,"432101,41",10,2,1,25,87,13,Desconegut
+0032 0032,2,la Barceloneta,"4581125,17",0,1,Ciutat Vella,Laboral,13-1-3,2011,Febrer,Tarda,Joan Borbó Comte Barcelona,0,224904,2011S001116,Dijous,1,"432111,35",2,4,1,17,88,20,Desconegut
+0025X0025X,1,"Sant Pere, Santa Caterina i la Ribera","4581634,83",0,2,Ciutat Vella,Laboral,14-1-4,2011,Novembre,Nit,Doctor Aiguader,0,700813,2011S007898,Dimecres,2,"432097,06",11,3,1,23,89,5,Desconegut
+0027 0027,1,"Sant Pere, Santa Caterina i la Ribera","4581747,92",0,1,Ciutat Vella,Laboral,14-1-4,2011,Juny,Matí,Doctor Aiguader,0,700813,2011S004362,Diumenge,1,"432285,80",6,7,1,26,90,10,Desconegut
+9998 9998,2,la Barceloneta,"4581521,97",0,1,Ciutat Vella,Laboral,13-1-3,2011,Maig,Matí,Doctor Aiguader,0,700813,2011S002994,Dimecres,1,"432007,38",5,3,1,4,91,8,Desconegut
+000970000,2,la Barceloneta,"4581550,07",1,0,Ciutat Vella,Laboral,13-1-3,2011,Abril,Tarda,Litoral (Llobregat),0,701266,2011S002556,Dimecres,1,"432010,14",4,3,1,13,92,14,Desconegut
+0008 0008,2,la Barceloneta,"4581416,98",0,2,Ciutat Vella,Laboral,13-1-3,2011,Octubre,Matí,Ginebra,0,145706,2011S006985,Dilluns,2,"432083,10",10,1,1,17,93,8,Desconegut
+0002 0002,2,"Sant Pere, Santa Caterina i la Ribera","4581414,99",0,1,Ciutat Vella,Laboral,14-1-4,2011,Abril,Tarda,Isabel II,0,163504,2011S002833,Dimecres,1,"431649,18",4,3,1,27,94,20,Desconegut
+0004 0004,2,"Sant Pere, Santa Caterina i la Ribera","4581428,97",0,1,Ciutat Vella,Laboral,14-1-4,2011,Maig,Matí,Isabel II,0,163504,2011S003397,Dijous,1,"431658,03",5,4,1,19,95,12,Desconegut
+0014B0014B,2,"Sant Pere, Santa Caterina i la Ribera","4581519,65",0,3,Ciutat Vella,Laboral,14-1-4,2011,Març,Tarda,Isabel II,0,163504,2011S001674,Divendres,3,"431716,96",3,5,1,11,96,17,Desconegut
+0007 0007,2,la Barceloneta,"4581356,74",0,1,Ciutat Vella,Laboral,13-1-3,2011,Juliol,Matí,Joan Borbó Comte Barcelona,0,224904,2011S005059,Diumenge,1,"432044,96",7,7,1,24,97,10,Desconegut
+0017 0017,1,"Sant Pere, Santa Caterina i la Ribera","4581564,95",0,1,Ciutat Vella,Laboral,14-1-4,2011,Maig,Matí,Palau,0,240707,2011S003366,Dimecres,1,"431829,98",5,3,1,18,98,13,Creuar per fora pas de vianants
